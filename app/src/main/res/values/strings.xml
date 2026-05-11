@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShreshtaGuard</string>
+    <string name="subtitle">YouTube screen-time guardian for Shreshta</string>
+
+    <string name="setup_steps_title">Setup — grant these two permissions:</string>
+
+    <string name="step1_title">Usage Access</string>
+    <string name="step1_desc">Lets the app detect when YouTube is open</string>
+
+    <string name="step2_title">Display Over Other Apps</string>
+    <string name="step2_desc">Lets the warning appear above YouTube</string>
+
+    <string name="grant">Grant</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="monitoring_active">Monitoring Active ✓</string>
+
+    <string name="notification_title">ShreshtaGuard is active</string>
+    <string name="notification_text">Watching YouTube usage — 5 min limit per session</string>
+
+    <string name="usage_status_desc">Usage access permission status</string>
+    <string name="overlay_status_desc">Overlay permission status</string>
+</resources>
